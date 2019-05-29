@@ -1,0 +1,14 @@
+C:\Users\Perceptron\source\repos\Sistema\Sistema\bin\Debug\netcoreapp2.2\Sistema.deps.json
+C:\Users\Perceptron\source\repos\Sistema\Sistema\bin\Debug\netcoreapp2.2\Sistema.runtimeconfig.json
+C:\Users\Perceptron\source\repos\Sistema\Sistema\bin\Debug\netcoreapp2.2\Sistema.runtimeconfig.dev.json
+C:\Users\Perceptron\source\repos\Sistema\Sistema\bin\Debug\netcoreapp2.2\Sistema.dll
+C:\Users\Perceptron\source\repos\Sistema\Sistema\bin\Debug\netcoreapp2.2\Sistema.pdb
+C:\Users\Perceptron\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.2\Sistema.csprojAssemblyReference.cache
+C:\Users\Perceptron\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.2\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Perceptron\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.2\Sistema.RazorAssemblyInfo.cache
+C:\Users\Perceptron\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.2\Sistema.RazorAssemblyInfo.cs
+C:\Users\Perceptron\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.2\Sistema.AssemblyInfoInputs.cache
+C:\Users\Perceptron\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.2\Sistema.AssemblyInfo.cs
+C:\Users\Perceptron\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.2\Sistema.RazorTargetAssemblyInfo.cache
+C:\Users\Perceptron\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.2\Sistema.dll
+C:\Users\Perceptron\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.2\Sistema.pdb
