@@ -2,8 +2,8 @@ import json
 from aws_client import AWSClient
 
 # Configurações do cliente AWS
-access_key = 'AKIAVAQIVQT2QHVTA5HI'
-secret_key = '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'
+access_key = ''
+secret_key = ''
 region = 'us-east-2'
 
 # Inicializa o cliente AWS
